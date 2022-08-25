@@ -35,4 +35,9 @@
   letter-spacing: 4px;
   padding-top: 363px;
   color: white;
+  margin: auto;
+}
+
+.header-menu {
+  text-align: center;
 }
